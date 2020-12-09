@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "collapsible-menu",
+    "anchor-navigation-ex",
+    "tbfed-pagefooter",
+    "disqus"
+  ],
+  "title": "发布业务逻辑梳理",
+  "pluginsConfig": {
+      "disqus": {
+        "shortName": "riley"
+      }
+  }
+}

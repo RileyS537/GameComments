@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "collapsible-menu",
+    "anchor-navigation-ex",
+    "tbfed-pagefooter",
+    "disqus"
+  ],
+  "title": "人生苦短我打游戏",
+  "pluginsConfig": {
+      "disqus": {
+        "shortName": "riley"
+      }
+  }
+}

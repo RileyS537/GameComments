@@ -1,0 +1,19 @@
+{
+  "plugins": [
+    "collapsible-menu",
+    "anchor-navigation-ex",
+    "tbfed-pagefooter",
+    "disqus"
+  ],
+  "title": "发布业务逻辑梳理",
+  "pluginsConfig": {
+      "tbfed-pagefooter": {
+          "copyright":"Copyright &copy ershouche-FE 2019",
+          "modify_label": "文件修订时间：",
+          "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+      "disqus": {
+        "shortName": "gitbookuse"
+      }
+  }
+}
