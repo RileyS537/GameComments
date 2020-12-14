@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "-lunr",
+    "search",
+    "search-plus",
+    "back-to-top-button",
+    "disqus"
+  ],
+  "title": "人生苦短我打游戏",
+  "pluginsConfig": {
+      "disqus": {
+        "shortName": "riley"
+      },
+      "theme-default": {
+        "showLevel": true
+      }
+  }
+}
